@@ -1,0 +1,226 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1540 960" width="1540" height="960">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 1 L10 5 L0 9" fill="none" stroke="#1e1e1e" stroke-width="1.6"/></marker></defs>
+<rect width="1540" height="960" fill="#ffffff"/>
+<text x="770.0" y="520.0" text-anchor="middle" font-size="120" fill="#1e1e1e" opacity="0.03" transform="rotate(-18 770.0 480.0)" font-family="Arial">engineering-atlas.in</text>
+<text x="770.0" y="40" text-anchor="middle" font-size="28" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Where every component sits in a typical system</text>
+<rect x="20" y="70" width="180" height="560" rx="14" fill="#f1f3f5" fill-opacity="0.35" stroke="#adb5bd" stroke-width="1.4" stroke-dasharray="8 6"/>
+<text x="32" y="92" font-size="15" fill="#495057" font-weight="bold" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Clients</text>
+<rect x="215" y="70" width="190" height="560" rx="14" fill="#d0ebff" fill-opacity="0.35" stroke="#adb5bd" stroke-width="1.4" stroke-dasharray="8 6"/>
+<text x="227" y="92" font-size="15" fill="#495057" font-weight="bold" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Edge</text>
+<rect x="420" y="70" width="410" height="560" rx="14" fill="#e5dbff" fill-opacity="0.35" stroke="#adb5bd" stroke-width="1.4" stroke-dasharray="8 6"/>
+<text x="432" y="92" font-size="15" fill="#495057" font-weight="bold" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Entry and routing</text>
+<rect x="845" y="70" width="210" height="560" rx="14" fill="#fff3bf" fill-opacity="0.35" stroke="#adb5bd" stroke-width="1.4" stroke-dasharray="8 6"/>
+<text x="857" y="92" font-size="15" fill="#495057" font-weight="bold" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Compute</text>
+<rect x="1070" y="70" width="450" height="560" rx="14" fill="#d3f9d8" fill-opacity="0.35" stroke="#adb5bd" stroke-width="1.4" stroke-dasharray="8 6"/>
+<text x="1082" y="92" font-size="15" fill="#495057" font-weight="bold" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Data</text>
+<rect x="20" y="645" width="1500" height="165" rx="14" fill="#ffe8cc" fill-opacity="0.35" stroke="#adb5bd" stroke-width="1.4" stroke-dasharray="8 6"/>
+<text x="32" y="667" font-size="15" fill="#495057" font-weight="bold" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Async and streaming</text>
+<rect x="20" y="825" width="1500" height="110" rx="14" fill="#f1f3f5" fill-opacity="0.35" stroke="#adb5bd" stroke-width="1.4" stroke-dasharray="8 6"/>
+<text x="32" y="847" font-size="15" fill="#495057" font-weight="bold" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Platform (used by everything)</text>
+<path d="M39.43626484746612 138.8827173565584 L180.48299031372753 138.63179611733614 L180.1148224137814 203.57020453412028 L38.58559655927906 204.02379434620613 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M38.519986107014354 139.78766618771962 L178.62353735543877 138.69028164270037 L179.75846140525604 205.04592679895052 L38.796166275678864 203.11436468674245 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="110.0" y="169.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Web / mobile</text>
+<text x="110.0" y="188.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">client app</text>
+<path d="M40.40778631169788 321.43266861586244 L180.246729435576 319.66937751888247 L181.52401633789734 382.5490645779768 L41.147099068955775 383.32674971626136 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M38.8616162667438 318.77693516185076 L179.3871418371262 321.0116043491841 L178.9783244157566 384.2611205237199 L40.44452310056379 383.59167213672237 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="110.0" y="349.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Forward proxy</text>
+<text x="110.0" y="368.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">client side, egress</text>
+<path d="M40.152782290270586 498.60092471991464 L178.59072374389194 499.05906788102186 L180.5772799141817 563.768295378142 L39.405270945205736 564.2737979632244 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M39.850190004386484 499.3592543899638 L180.94201434087196 500.6367821879346 L179.1811088343109 564.2381558728277 L40.08062881219664 565.2004399858349 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="110.0" y="529.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Partner / API</text>
+<text x="110.0" y="548.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">3rd-party callers</text>
+<path d="M235.73422492620548 109.32140084764859 L386.53655951197624 108.77781049041587 L384.73799302971275 170.8228509746088 L233.88635051091362 169.96468192152258 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M233.5254632225518 110.53829074091007 L385.846626771881 110.23368300888762 L386.2015289978588 169.40399204111392 L235.6249451720757 170.30198360673606 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<circle cx="235" cy="110" r="12" fill="#1e1e1e"/><text x="235" y="114.5" text-anchor="middle" font-size="12" fill="#fff" font-family="Arial" font-weight="bold">10</text>
+<text x="310.0" y="137.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">DNS</text>
+<text x="310.0" y="156.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">name to IP</text>
+<path d="M235.25566465370397 239.85985706016453 L386.0878968976401 241.4229795043454 L384.91711467974284 300.52528705751894 L233.5941421683111 300.64477446817415 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M235.47081233448853 241.57790700629323 L386.03015931715106 239.31070570270128 L384.63453261582947 300.5396886908294 L233.47220136977788 299.87742491615927 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<circle cx="235" cy="240" r="12" fill="#1e1e1e"/><text x="235" y="244.5" text-anchor="middle" font-size="12" fill="#fff" font-family="Arial" font-weight="bold">3</text>
+<text x="310.0" y="267.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">CDN</text>
+<text x="310.0" y="286.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">static and video</text>
+<path d="M233.93775481250094 368.77470654234156 L383.5886541418602 370.85834556311204 L383.81388871045976 429.19236746783014 L234.65103905002633 431.18855031720415 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M233.65786016384044 369.83739968303786 L385.1582077092609 371.2268282446128 L386.02169548107435 431.16475030303525 L234.29094740644447 429.7289488550774 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="310.0" y="397.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">WAF / DDoS</text>
+<text x="310.0" y="416.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">block bad traffic</text>
+<path d="M234.5480677290612 501.2294170470343 L386.4647398526848 498.88294689853154 L383.9638967311692 559.1422619738225 L234.14667546777875 559.9518807370923 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M235.2851952119432 499.2407891817553 L383.4130995308322 499.74062880360106 L384.5816114332631 560.2122919158604 L236.4499133616803 560.6095797028352 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<circle cx="235" cy="500" r="12" fill="#1e1e1e"/><text x="235" y="504.5" text-anchor="middle" font-size="12" fill="#fff" font-family="Arial" font-weight="bold">11</text>
+<text x="310.0" y="527.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Reverse proxy</text>
+<text x="310.0" y="546.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">TLS, routing</text>
+<path d="M440.04957258582647 500.3762967981092 L610.5638402638384 498.57277725831614 L611.2785056321854 564.8959023702595 L441.1984421892303 564.953193987829 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M439.65561250205207 499.67673226342487 L608.731318699873 500.4297266101943 L608.5991930291798 562.6155123706977 L439.06804219342774 562.9193702008707 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<circle cx="440" cy="500" r="12" fill="#1e1e1e"/><text x="440" y="504.5" text-anchor="middle" font-size="12" fill="#fff" font-family="Arial" font-weight="bold">2</text>
+<text x="525.0" y="529.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">API gateway</text>
+<text x="525.0" y="548.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">one front door</text>
+<path d="M439.4881716871435 368.56824193244887 L608.4007465020843 368.8840477832942 L608.7246859776723 425.5635517505106 L438.48160283733165 427.1978636075962 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M440.36502076092313 368.87536155305884 L609.2072248209827 369.51164654737187 L609.5653230064905 424.793095138439 L441.11659816475077 427.5779287094551 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<circle cx="440" cy="370" r="12" fill="#1e1e1e"/><text x="440" y="374.5" text-anchor="middle" font-size="12" fill="#fff" font-family="Arial" font-weight="bold">9</text>
+<text x="525.0" y="395.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Rate limiter</text>
+<text x="525.0" y="414.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">token bucket</text>
+<path d="M439.8911662693118 239.94827090053207 L608.6748309169798 238.72700037359414 L609.4964346823776 295.24722205349497 L441.052337209989 294.9166035536846 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M438.4739063073448 241.44315383319903 L610.0904236641348 238.8691281244771 L610.1381517628228 294.48653597255094 L440.0899502110026 297.53120397670074 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="525.0" y="265.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Auth / IAM</text>
+<text x="525.0" y="284.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">OAuth, JWT</text>
+<path d="M641.1626400969269 500.627829714905 L809.2355686311339 499.57343933363575 L808.9345345105098 564.8702013068865 L640.1042956719772 564.8929756522822 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M639.4549279841528 499.1137333539302 L810.9968359896756 501.55176336189083 L811.1284121559893 564.9794514713142 L641.0186654186411 564.7675936652023 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<circle cx="640" cy="500" r="12" fill="#1e1e1e"/><text x="640" y="504.5" text-anchor="middle" font-size="12" fill="#fff" font-family="Arial" font-weight="bold">1</text>
+<text x="725.0" y="529.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Load balancer</text>
+<text x="725.0" y="548.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">L4 / L7</text>
+<path d="M639.1255663681011 370.0564439175792 L809.5378001387359 368.4927364823724 L808.4893986413506 425.2941393249569 L639.2293579624568 426.61607021344037 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M641.4608482442923 369.8311285688535 L811.3984678440839 371.56172178624917 L811.4560020202283 425.566834833158 L639.105479433588 425.12590664553835 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="725.0" y="395.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Service discovery</text>
+<text x="725.0" y="414.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">registry, health</text>
+<path d="M639.0294597229419 109.05399476248391 L810.397012471801 111.28098668122917 L811.0893936872938 169.93431496403693 L640.4895297370912 170.95885998351892 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M638.6712911566412 110.51387408065565 L811.3112868401655 110.90336922911389 L810.8004494714575 169.9297047827008 L638.9712694986803 170.92523337926488 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="725.0" y="137.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">WebSocket gateway</text>
+<text x="725.0" y="156.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">real-time push</text>
+<path d="M869.4640550395668 200.9626354204694 L1031.5093033247429 199.66668318422222 L1029.6844378171766 257.42975042068764 L870.7193557300295 254.94401171191006 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M868.8065227753532 198.88368224122075 L1031.2955267063464 200.98080634250303 L1028.8677577879805 257.04483353128126 L871.5369790190305 256.50325853675525 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="950.0" y="225.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Service A</text>
+<text x="950.0" y="244.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">stateless</text>
+<path d="M869.521304038904 300.1557121407577 L1028.8191483264302 298.44557740209956 L1031.506848567161 356.47895894295624 L870.085059350717 357.38759937618374 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M869.788190197624 301.1895773695661 L1031.0436968058086 299.0753354794501 L1029.2058713963695 355.3374932885447 L869.1697260561866 356.2765989381311 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="950.0" y="325.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Service B</text>
+<text x="950.0" y="344.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">stateless</text>
+<path d="M869.2299673448647 399.74084016881454 L1028.8194357648113 401.3120545802098 L1029.5321088766505 455.86611515670955 L870.2667160705339 457.29374967853454 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M869.746010466269 401.3367074698965 L1030.0052766115848 400.10183987979497 L1030.075221073879 454.45985557729733 L869.8083997196318 454.985945239271 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="950.0" y="425.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Service C</text>
+<text x="950.0" y="444.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">stateless</text>
+<path d="M868.4125839418421 520.9573454415751 L1028.9515094790831 519.9151773838782 L1030.7206184654317 580.1807219996871 L869.4431428833564 580.0587158806497 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M870.1774139996168 520.9096719211695 L1028.7395501347357 520.1929476274687 L1029.1951818273378 579.2861346254873 L870.8712355160176 580.0246847737354 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="950.0" y="547.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Serverless fn</text>
+<text x="950.0" y="566.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">on demand</text>
+<path d="M870.1975340373007 110.83197805628805 L1031.3199617162554 109.8183948594478 L1030.3600892299023 166.01777001872392 L870.038916711793 166.61673920815434 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M869.8475065352477 110.10651340025335 L1029.9297162177027 111.4128036081232 L1030.637497222977 167.2049135416979 L871.4149778825714 165.2306953411766 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="950.0" y="135.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">ID generator</text>
+<text x="950.0" y="154.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Snowflake</text>
+<path d="M1090.1904441807926 111.41845450884315 L1281.0879993068584 108.83883019486993 L1278.7891902540293 169.81477788248014 L1088.6321475189009 169.17004402705047 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M1088.6339864543127 110.54231086499166 L1280.9085952549542 111.27048458521206 L1278.8942291960598 170.69158362492223 L1090.5128208486124 168.85753279335756 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<circle cx="1090" cy="110" r="12" fill="#1e1e1e"/><text x="1090" y="114.5" text-anchor="middle" font-size="12" fill="#fff" font-family="Arial" font-weight="bold">4</text>
+<text x="1185.0" y="137.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Cache</text>
+<text x="1185.0" y="156.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Redis, hot data</text>
+<path d="M1301.2250650677026 111.49614330453242 L1499.102681058566 111.44801321254076 L1499.6744219990953 169.9592344799708 L1301.5675886551817 171.06382294234544 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M1298.9166913916188 109.78086981759245 L1500.049936184974 109.48517166188422 L1499.0263829316286 169.41928181868062 L1300.7108826724518 168.46234536976766 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="1400.0" y="137.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Search index</text>
+<text x="1400.0" y="156.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Elasticsearch</text>
+<path d="M1090.1729607929867 209.80946592576865 L1278.4578623386465 209.46079324525437 L1280.396566636454 280.03923931028305 L1088.6057305362904 281.5522663812291 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M1090.9227617795123 211.50942706767063 L1278.735294701673 209.24980567149927 L1278.5266822077251 280.8927917762173 L1089.2654275120683 278.8145777897782 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<circle cx="1090" cy="210" r="12" fill="#1e1e1e"/><text x="1090" y="214.5" text-anchor="middle" font-size="12" fill="#fff" font-family="Arial" font-weight="bold">5</text>
+<text x="1185.0" y="242.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Database (primary)</text>
+<text x="1185.0" y="261.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">SQL or NoSQL</text>
+<path d="M1299.7512133800885 211.31652421178754 L1501.0207327353 209.2275488473403 L1498.8779774316931 281.34134882723765 L1300.2259037612585 280.6413358289492 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M1298.6862790651098 208.58408483981103 L1500.6022578283153 209.7610145305463 L1498.6317251031141 281.40271906892855 L1300.430206420149 280.96521149302845 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<circle cx="1300" cy="210" r="12" fill="#1e1e1e"/><text x="1300" y="214.5" text-anchor="middle" font-size="12" fill="#fff" font-family="Arial" font-weight="bold">7</text>
+<text x="1400.0" y="242.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Read replicas</text>
+<text x="1400.0" y="261.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">copies for reads</text>
+<path d="M1088.6679760839504 321.1399316363909 L1278.6131921115982 321.1608799009723 L1279.8520752671134 389.48528568731086 L1090.1698051790656 391.3653417090279 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M1089.257151189368 318.81351935966507 L1280.086128084887 319.16299574227634 L1278.7502446882538 388.91663709311234 L1088.5612150950706 389.0456583960592 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<circle cx="1090" cy="320" r="12" fill="#1e1e1e"/><text x="1090" y="324.5" text-anchor="middle" font-size="12" fill="#fff" font-family="Arial" font-weight="bold">6</text>
+<text x="1185.0" y="352.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Shards</text>
+<text x="1185.0" y="371.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">split by key</text>
+<path d="M1299.398375693051 319.3760172732135 L1500.8303944159954 319.32787467111797 L1500.0002835195578 388.9692796294814 L1299.510403270809 388.4581219433427 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M1299.2014360198248 318.4491075758561 L1500.7458572269834 320.163357209636 L1499.00626078878 389.9192340432567 L1301.3908570873036 388.7401003040867 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<circle cx="1300" cy="320" r="12" fill="#1e1e1e"/><text x="1300" y="324.5" text-anchor="middle" font-size="12" fill="#fff" font-family="Arial" font-weight="bold">12</text>
+<text x="1400.0" y="352.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Hash ring</text>
+<text x="1400.0" y="371.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">place keys on shards</text>
+<path d="M1091.0205444490934 429.78296827451015 L1279.9840050350645 431.0707645866567 L1279.6578754417972 490.02139504689654 L1090.6007735542103 491.54380972932734 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M1089.4966548013358 431.06331693844623 L1280.661521285268 430.43512623643204 L1279.6950326678618 489.51216697649676 L1088.574043317723 488.8154194596828 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="1185.0" y="457.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Object storage</text>
+<text x="1185.0" y="476.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">S3, blobs</text>
+<path d="M1298.626313009869 430.7708454341854 L1499.217900405663 428.9223888648844 L1498.6703515926654 491.0920607419224 L1301.1857210279927 490.5457385533078 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M1299.302186503381 429.17508138877594 L1499.337787176257 429.8702494188631 L1498.9041054074535 489.82663874634795 L1299.2423778143916 491.47771690676035 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="1400.0" y="457.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Time-series DB</text>
+<text x="1400.0" y="476.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">metrics</text>
+<path d="M1091.5123935934284 530.1506347971805 L1499.182228780614 531.4901336641881 L1499.3905533365694 589.5410685344448 L1088.4034205278238 589.6212051411603 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M1089.918859607671 530.0088448204045 L1499.0431361734434 530.0151540464458 L1498.4158417008125 589.2453397945653 L1088.687210873219 589.6784357449245 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="1295.0" y="557.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Data lake / warehouse</text>
+<text x="1295.0" y="576.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Snowflake, BigQuery, Iceberg</text>
+<path d="M58.53333426461169 688.4719812703048 L229.3735825927179 689.1449906130906 L230.27386650938124 754.093406554538 L60.80173001659517 754.5041397546006 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M60.6911790081034 691.2130902194157 L229.64645270739345 689.4436312132043 L231.55113307223775 752.8782820769352 L60.71729847475784 754.4583022390545 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<circle cx="60" cy="690" r="12" fill="#1e1e1e"/><text x="60" y="694.5" text-anchor="middle" font-size="12" fill="#fff" font-family="Arial" font-weight="bold">8</text>
+<text x="145.0" y="719.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Message queue</text>
+<text x="145.0" y="738.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">SQS, RabbitMQ</text>
+<path d="M288.54012181341307 691.0729265383485 L461.25421553881125 690.4074627978622 L460.7483267951263 754.9991005302796 L288.84578435206146 754.0760233104912 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M290.01398736401745 691.0718002989985 L460.9749683383961 691.0445091888064 L460.26899685378 755.2570551564976 L290.5852651824016 754.6186436329577 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="375.0" y="719.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Workers</text>
+<text x="375.0" y="738.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">background jobs</text>
+<path d="M519.1358103057167 688.4997136841264 L688.825898233345 689.5542639245872 L688.7357327074199 755.0746278393599 L520.187287188787 754.4088547472677 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M520.4039246685849 690.5781253634586 L689.9657418075512 688.4106058468091 L690.9526321666267 754.7944491847159 L520.0095073675599 754.1126394055352 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="605.0" y="719.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Scheduler</text>
+<text x="605.0" y="738.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">cron, delayed jobs</text>
+<path d="M750.5097583657739 688.6113611399109 L940.7577226513353 689.2070193006806 L938.6382399999173 753.2497863110253 L750.7338721217261 753.0566960866627 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M750.7674514925463 691.5223523011289 L939.9806360923178 689.6241935271439 L939.932832525026 754.5878290006475 L750.8543043386161 754.3743168504903 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="845.0" y="719.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Event stream</text>
+<text x="845.0" y="738.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Kafka, Pulsar</text>
+<path d="M1000.4568415212224 688.647909822457 L1188.871760233206 689.2126089012988 L1190.7782952235434 753.3741348414695 L1000.2168374331818 752.4399014826398 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M998.5941152450036 689.2600728505256 L1190.5504050516968 690.6149925522254 L1190.5622645018009 753.330740730974 L1000.0529142209421 753.8869211307978 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="1095.0" y="719.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Stream processor</text>
+<text x="1095.0" y="738.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Flink, Spark Streaming</text>
+<path d="M1249.89228529375 688.779209160645 L1491.259721363761 689.0376000955504 L1491.5300023576224 755.3960138910519 L1248.4560142586133 753.8687066334835 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M1251.0236726166395 691.4979464052823 L1489.8382431028836 689.2597031685555 L1489.07147910396 755.4258792860636 L1249.0742681521085 754.2607115767074 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="1370.0" y="719.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Notifications</text>
+<text x="1370.0" y="738.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">push, email, SMS</text>
+<path d="M58.8535701691505 860.0770102801754 L311.44876907729036 858.8243362332192 L311.0246944339673 916.0279819316761 L61.237958910767496 916.6506785241411 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M59.1404275297615 861.2726582259213 L309.95565010056686 858.4794700898901 L308.41148950934314 915.9734275503537 L59.84243296159313 915.3662433320804 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="185.0" y="885.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Observability</text>
+<text x="185.0" y="904.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">metrics, logs, traces</text>
+<path d="M350.8502631048246 859.5006724685694 L601.4114497451999 861.0887393076736 L600.4055724221361 916.8023489317483 L353.08515454288147 914.784132312295 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M353.3644763516364 860.6816754105502 L603.2850130019166 859.3274654687217 L601.5911103979344 915.6572780225315 L353.59613601851396 916.2853652972317 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="477.0" y="885.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Coordination</text>
+<text x="477.0" y="904.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">ZooKeeper, etcd</text>
+<path d="M643.5542698365549 859.7697688044466 L893.280496808392 858.5544579095993 L892.7254715454964 917.070963183927 L643.3139942082158 917.3938876425962 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M643.1978390925178 859.2503296479283 L894.0350815609837 859.0075169509216 L893.5947177120481 917.4597288472115 L645.2296529776814 916.9982792559065 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="769.0" y="885.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Config / secrets</text>
+<text x="769.0" y="904.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">feature flags, vault</text>
+<path d="M936.418866572381 861.32295643987 L1187.4102377546824 860.1575300742015 L1186.7026322622437 914.5583233102194 L936.743527899048 915.8427533534744 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M936.8085376295703 860.4623702733393 L1185.315866624965 858.5567260959602 L1187.3656865489509 914.8073962252322 L935.9109890798298 915.4997211285054 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="1061.0" y="885.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">CI/CD</text>
+<text x="1061.0" y="904.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">deploy, rollback</text>
+<path d="M1227.3528699697433 860.764904015988 L1479.5241477645116 859.232540974765 L1478.4991850433032 915.3626761313243 L1228.1834294478626 915.6619768886504 Z" fill="#ffffff" stroke="#1e1e1e" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M1226.9354638968277 858.9173022764962 L1477.0651920676376 861.2990717127759 L1477.990642513046 915.1040808070418 L1229.3000300486763 917.588720363599 Z" fill="none" stroke="#1e1e1e" stroke-width="1" stroke-linejoin="round"/>
+<text x="1353.0" y="885.0" text-anchor="middle" font-size="17" fill="#1e1e1e" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Containers</text>
+<text x="1353.0" y="904.0" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Kubernetes</text>
+<path d="M110 204 Q172.0196202583854 168.54012221439734 235 140" fill="none" stroke="#1e1e1e" stroke-width="1.6" stroke-dasharray="7 6" marker-end="url(#a)"/>
+<text x="172.0196202583854" y="161.54012221439734" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">DNS lookup</text>
+<path d="M180 172 Q204.54710811930315 217.07085927782262 235 270" fill="none" stroke="#1e1e1e" stroke-width="1.6" stroke-dasharray="7 6" marker-end="url(#a)"/>
+<text x="204.54710811930315" y="210.07085927782262" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">static</text>
+<path d="M110 204 Q108.48277024430328 258.07450566191346 110 320" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<path d="M180 352 Q204.99561517488758 373.68023265428724 235 400" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<path d="M180 532 Q208.16833032623353 474.7176140084325 235 410" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<path d="M310 430 Q312.3967130330049 464.16270392295155 310 500" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<path d="M385 530 Q411.67328229516795 530.2320141704085 440 530" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<path d="M525 500 Q523.8179118111306 461.44674976483185 525 426" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<path d="M525 370 Q520.7957713721856 330.8641569309912 525 296" fill="none" stroke="#1e1e1e" stroke-width="1.6" stroke-dasharray="7 6" marker-end="url(#a)"/>
+<path d="M610 532 Q629.4897785205945 528.4083884968819 640 532" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<path d="M725 500 Q725.0325991770667 464.244418296121 725 426" fill="none" stroke="#1e1e1e" stroke-width="1.6" stroke-dasharray="7 6" marker-end="url(#a)"/>
+<path d="M810 532 Q843.483468950889 377.27324615187155 870 228" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<path d="M810 532 Q837.8018004582017 427.5851550377293 870 328" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<path d="M810 532 Q839.0376685127586 479.4802405666234 870 428" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<path d="M810 520 Q844.3578583225262 538.3473632918124 870 550" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<path d="M725 500 Q728.5797534681349 330.4093808980403 725 170" fill="none" stroke="#1e1e1e" stroke-width="1.6" stroke-dasharray="7 6" marker-end="url(#a)"/>
+<path d="M1030 228 Q1055.5095375365163 186.0113131354111 1090 140" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<text x="1055.5095375365163" y="179.0113131354111" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">read</text>
+<path d="M1030 328 Q1063.7986865857304 286.24337546598537 1090 245" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<text x="1063.7986865857304" y="279.24337546598537" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">write</text>
+<path d="M1280 245 Q1290.8368943087928 240.201715403066 1300 245" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<path d="M1280 355 Q1288.958602518814 359.09754182778556 1300 355" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<path d="M1185 280 Q1188.125656380262 303.4124416686166 1185 320" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<path d="M1030 428 Q1064.5335147701944 441.58526671765617 1090 460" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<text x="1064.5335147701944" y="434.58526671765617" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">files</text>
+<path d="M950 456 Q543.7468415897226 569.6820325006533 145 690" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<text x="543.7468415897226" y="562.6820325006533" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">enqueue</text>
+<path d="M230 722 Q260.2147098282734 723.7479205924672 290 722" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<path d="M690 722 Q724.2383093709036 724.1286587739709 750 722" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<path d="M1185 280 Q1016.4145419487841 487.542085258595 845 690" fill="none" stroke="#2b8a3e" stroke-width="1.6" stroke-dasharray="7 6" marker-end="url(#a)"/>
+<text x="1016.4145419487841" y="480.542085258595" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">CDC</text>
+<path d="M940 722 Q969.5903204025033 722.4944087822577 1000 722" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<path d="M1190 722 Q1215.5796440840745 724.7100667328109 1250 722" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<path d="M1095 690 Q1192.4327375580822 644.0312330511277 1295 590" fill="none" stroke="#1e1e1e" stroke-width="1.6"  marker-end="url(#a)"/>
+<text x="1192.4327375580822" y="637.0312330511277" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">to lake</text>
+<path d="M1095 690 Q1248.8968554531352 588.1163097116305 1400 490" fill="none" stroke="#1e1e1e" stroke-width="1.6" stroke-dasharray="7 6" marker-end="url(#a)"/>
+<path d="M1095 690 Q1243.928481742845 427.6172218939009 1400 170" fill="none" stroke="#1e1e1e" stroke-width="1.6" stroke-dasharray="7 6" marker-end="url(#a)"/>
+<text x="1243.928481742845" y="420.6172218939009" text-anchor="middle" font-size="12.5" fill="#495057" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">index</text>
+<path d="M460 690 Q776.3083945348809 431.9063864062198 1090 170" fill="none" stroke="#1e1e1e" stroke-width="1.6" stroke-dasharray="7 6" marker-end="url(#a)"/>
+<text x="1522" y="952" text-anchor="end" font-size="12" fill="#868e96" font-family="Arial">© engineering-atlas.in</text>
+<text x="24" y="952" font-size="12.5" fill="#868e96" font-family="Virgil, 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive">Numbered badges match the core components table above. Dashed = side path or async.</text></svg>
